@@ -4,5 +4,7 @@
     <string name="app_name">XmppClient</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="instructions">Connect with your social account!</string>
+    
+	<string name="facebook_app_id">181105405377960</string>
 </resources>
